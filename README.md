@@ -29,8 +29,8 @@ A aplicação web é voltada para o cadastro das Ongs e dos casos.
 <h1 align="center">
     <img alt="login" title="Login" src="imagens/login.png" width="440px" />
     <img alt="casos" title="Casos" src="imagens/casos.png" width="440px" />
-    <img alt="cadastro ong" title="Cadastro Ong" src="cadastro_ong/login.png" width="440px" />
-    <img alt="cadastro casos" title="Cadastro Casos" src="cadastro_incidents_preenchido/login.png" width="440px" />
+    <img alt="cadastro ong" title="Cadastro Ong" src="imagens/cadastro_ong.png" width="440px" />
+    <img alt="cadastro casos" title="Cadastro Casos" src="imagens/cadastro_incidents_preenchido.png" width="440px" />
 </h1>
 
 ## 📱 Aplicação Mobile
