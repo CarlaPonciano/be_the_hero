@@ -3,7 +3,7 @@
 
 ## 🎯 Projeto
 
-Projeto desenvolvido durante a Semana OmniStack 10ª Edição organizado pela Rocketseat.
+Projeto desenvolvido durante a Semana OmniStack 11ª Edição organizado pela Rocketseat.
 
 Nesta edição, a proposta do projeto é oferecer uma interface web para ONGs cadastrarem casos que precisam de ajuda financeira, e um app para consulta e contato destinado a pessoas interessadas em ajudar ("heróis").
 
