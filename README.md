@@ -27,10 +27,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 A aplicação web é voltada para o cadastro das Ongs e dos casos.
 
 <h1 align="center">
-    <img alt="login" title="Login" src="imagens/login.PNG" width="440px" />
-    <img alt="casos" title="Casos" src="imagens/casos.PNG" width="440px" />
-    <img alt="cadastro ong" title="Cadastro Ong" src="cadastro_ong/login.PNG" width="440px" />
-    <img alt="cadastro casos" title="Cadastro Casos" src="cadastro_incidents_preenchido/login.PNG" width="440px" />
+    <img alt="login" title="Login" src="imagens/login.png" width="440px" />
+    <img alt="casos" title="Casos" src="imagens/casos.png" width="440px" />
+    <img alt="cadastro ong" title="Cadastro Ong" src="cadastro_ong/login.png" width="440px" />
+    <img alt="cadastro casos" title="Cadastro Casos" src="cadastro_incidents_preenchido/login.png" width="440px" />
 </h1>
 
 ## 📱 Aplicação Mobile
@@ -38,6 +38,6 @@ A aplicação web é voltada para o cadastro das Ongs e dos casos.
 A aplicação mobile é voltada para as consultas dos casos das Ongs para os interessados entrarem em contato.
 
 <h1 align="center">
-    <img alt="casos" title="Casos" src="imagens/mobile_casos.PNG" width="220px" />
-    <img alt="detalhes" title="Detalhes" src="imagens/mobile_detail.PNG" width="220px" />
+    <img alt="casos" title="Casos" src="imagens/mobile_casos.png" width="220px" />
+    <img alt="detalhes" title="Detalhes" src="imagens/mobile_detail.png" width="220px" />
 </h1>
