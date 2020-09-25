@@ -38,6 +38,6 @@ A aplicação web é voltada para o cadastro das Ongs e dos casos.
 A aplicação mobile é voltada para as consultas dos casos das Ongs para os interessados entrarem em contato.
 
 <h1 align="center">
-    <img alt="casos" title="Casos" src="screenshots/mobile_casos.PNG" width="220px" />
-    <img alt="detalhes" title="Detalhes" src="screenshots/mobile_detail.PNG" width="220px" />
+    <img alt="casos" title="Casos" src="imagens/mobile_casos.PNG" width="220px" />
+    <img alt="detalhes" title="Detalhes" src="imagens/mobile_detail.PNG" width="220px" />
 </h1>
